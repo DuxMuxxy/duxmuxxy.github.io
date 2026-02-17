@@ -30,7 +30,6 @@ L'ensemble des données saisies dans l'application est **stocké exclusivement s
 L'application intègre **Firebase Crashlytics** et **Firebase Analytics** (Google) pour :
 
 - **Crashlytics** : collecter automatiquement des rapports d'erreur en cas de plantage de l'application. Ces rapports contiennent des informations techniques (modèle d'appareil, version du système d'exploitation, trace d'erreur). Ils ne contiennent aucune donnée de santé ni donnée personnelle saisie dans l'application.
-- **Analytics** : collecter des données d'utilisation anonymes (écrans consultés, fréquence d'utilisation, pays). Ces données sont utilisées uniquement pour améliorer l'application.
 
 Ces données sont traitées par Google conformément à la [politique de confidentialité de Google](https://policies.google.com/privacy).
 
